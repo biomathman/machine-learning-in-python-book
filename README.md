@@ -6,7 +6,7 @@ This repository contains the Jupyter notebooks with Python 3 code for the book `
 
 Electronic Edition $9.99 available at https://gumroad.com/l/FPxDo
 
-Paperback Edition $24.99 is available from Barnes and Noble at https://www.barnesandnoble.com/w/getting-started-in-machine-learning-isabella-romeo/1130341765?ean=9780996686068
+Paperback Edition $24.99 is available from Barnes and Noble at https://www.barnesandnoble.com/w/getting-started-in-machine-learning-isabella-romeo/1130341765?ean=9780996686075
 
 ### Book Description 
 
