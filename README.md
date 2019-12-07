@@ -2,6 +2,11 @@
 
 This repository contains the Jupyter notebooks with Python 3 code for the book `
 
+## A more recent version of this repository is at https://sourceforge.net/projects/gsmlbook/
+
+## No further updates will be made to github so long as they continue to support the incarceration of children and refugees in concentration camps.
+
+
 **Getting Started in Machine Learning: Easy Recipes for Python 3, Jupyter and Scikit-Learn**
 
 Electronic Edition $9.99 available at https://gumroad.com/l/FPxDo
