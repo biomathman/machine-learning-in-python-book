@@ -1,6 +1,5 @@
 # machine-learning-in-python-book
 
-This repository contains the Jupyter notebooks with Python 3 code for the book `
 
 ## A more recent version of this repository is at https://sourceforge.net/projects/gsmlbook/
 
